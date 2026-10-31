@@ -1,0 +1,47 @@
+Hi, I'm Lulu Maritza Hikmah Panggabean!
+
+A Software Engineer sharing about my journey and learnings in tech
+Studied Software Engineering Technology at the Polithenic Negeri Medan, Indonesia
+Making videos about Computer Science, tech, and productivity on TikTok
+Currently learning about Programming and AI!
+
+Tech Stack
+### Languages & Core
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+
+### Tools & Software
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![Shotcut](https://img.shields.io/badge/Shotcut-2F343B?style=for-the-badge&logo=shotcut&logoColor=white)
+
+
+<h2>📱 Featured TikTok Videos</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.tiktok.com/@axmziia/video/7702558324587318534">
+        <img src="img/1.png" width="100%" alt="TikTok 1"><br>
+        <b>▶ Tonton di TikTok</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.tiktok.com/@axmziia/video/7702000420142517512">
+        <img src="img/2.png" width="100%" alt="TikTok 2"><br>
+        <b>▶ Tonton di TikTok</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.tiktok.com/@axmziia/video/7701555998036643124">
+        <img src="img/3.png" width="100%" alt="TikTok 3"><br>
+        <b>▶ Tonton di TikTok</b>
+      </a>
+    </td>
+  </tr>
+</table>
