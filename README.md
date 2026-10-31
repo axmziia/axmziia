@@ -28,19 +28,16 @@ Tech Stack
     <td align="center" width="33%">
       <a href="https://www.tiktok.com/@axmziia/video/7702558324587318534">
         <img src="img/1.png" width="100%" alt="TikTok 1"><br>
-        <b>▶ Tonton di TikTok</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.tiktok.com/@axmziia/video/7702000420142517512">
         <img src="img/2.png" width="100%" alt="TikTok 2"><br>
-        <b>▶ Tonton di TikTok</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.tiktok.com/@axmziia/video/7701555998036643124">
         <img src="img/3.png" width="100%" alt="TikTok 3"><br>
-        <b>▶ Tonton di TikTok</b>
       </a>
     </td>
   </tr>
