@@ -21,7 +21,7 @@ Tech Stack
 ![Shotcut](https://img.shields.io/badge/Shotcut-2F343B?style=for-the-badge&logo=shotcut&logoColor=white)
 
 
-<h2>📱 Featured TikTok Videos</h2>
+<h2> Featured TikTok Videos</h2>
 
 <table>
   <tr>
