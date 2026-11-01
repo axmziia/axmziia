@@ -44,7 +44,7 @@ Currently learning about Programming and AI!
 
 
 <div data-importer="stats" align="center">
- <img src="https://github-readme-stats-eight-vector.vercel.app/api?username=axmziia&show_icons=true&theme=dark" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=axmziia&theme=dark" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/axmziia/axmziia/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
