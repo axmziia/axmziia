@@ -45,3 +45,5 @@ Tech Stack
     </td>
   </tr>
 </table>
+
+[![Pacman Stats](https://example-github-stats-generator.svg)](https://github.com/axmziia)
