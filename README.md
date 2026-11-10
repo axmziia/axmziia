@@ -1,13 +1,13 @@
 Hi, I'm Lulu Maritza Hikmah Panggabean!
 
-A Software Engineer sharing about my journey and learnings in tech
-Studied Software Engineering Technology at the Polithenic Negeri Medan, Indonesia
-Making videos about Computer Science, tech, and productivity on TikTok
-Currently learning about Programming and AI!
+A Software Engineer and a GamwBuilder !! :3 
+sharing about my journey and learnings in tech
+Studied Software Engineering Technology at the Polithenic Negeri Medan, Indonesia~
+Making videos about Computer Science, tech, and productivity on ma TikTok
+Currently learning about Programming, AI, and developing my game (alsooo working as a builder and a scripter on GARYIN in roblox) 
 
 ### Languages & Core
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
