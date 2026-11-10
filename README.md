@@ -4,6 +4,7 @@ A Software Engineer and a GameBuilder !! :3
 sharing about my journey and learnings in tech
 Studied Software Engineering Technology at the Polithenic Negeri Medan, Indonesia~
 Making videos about Computer Science, tech, and productivity on ma TikTok.
+#
 Currently learning about Programming, AI, and developing my game (alsooo working as a builder and a scripter on GARYIN in roblox) 
 
 ### Languages & Cor
